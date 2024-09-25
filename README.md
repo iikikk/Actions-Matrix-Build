@@ -3,6 +3,10 @@
 
 This repository demonstrates the setup and use of GitHub Actions to perform continuous integration across multiple Python versions using a matrix strategy. It contains a Python script that analyzes data from an Excel file and outputs summary statistics.
 
+## CI Badge
+
+[![Python CI](https://github.com/iikikk/Actions-Matrix-Build/actions/workflows/ci.yml/badge.svg)](https://github.com/iikikk/Actions-Matrix-Build/actions/workflows/ci.yml)
+
 ## Features
 
 - **Python Script**: Analyzes data and prints summary statistics.
